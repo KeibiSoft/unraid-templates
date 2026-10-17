@@ -1,0 +1,10 @@
+<CommunityApplications>
+  <Profile>KEIBISOFT makes KEIBIDROP, an end-to-end encrypted peer-to-peer app that opens another computer's folder over the internet as if it were on your own disk. This repository holds the Unraid template for the KEIBIDROP serving peer: your Unraid box serves a folder, and your computer opens it on demand with the KEIBIDROP desktop app on macOS, Windows or Linux.
+
+Website: https://keibidrop.com
+Source code and support: https://github.com/KeibiSoft/KeibiDrop/issues
+NAS guide: https://keibidrop.com/docs/how-to/run-on-a-nas.html</Profile>
+  <Icon>https://raw.githubusercontent.com/KeibiSoft/unraid-templates/main/icon.png</Icon>
+  <WebPage>https://keibidrop.com</WebPage>
+  <Photo>https://keibidrop.com/media/nas-always-on-peer-poster.png</Photo>
+</CommunityApplications>
